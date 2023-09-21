@@ -3,6 +3,9 @@
 cd to the repository 
 
       python Area_of_shapes.py
+      
       python Extract_mail_IDs.py
+      
       python unique_username.py
+      
       python oops.py
